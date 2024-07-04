@@ -1,5 +1,7 @@
 # Data Camp Associate Data Scientist in Python
 
+![DataCap](datacamp.png)
+
 The journey to becoming a Data Scientist is both exciting and enlightening. Through the Data Camp Associate Data Scientist in Python program, one can gain invaluable skills and knowledge that transform the understanding of data and its applications. This diary captures the progress and showcases the projects that illustrate the learning experience.
 
 ## Chapter 1: Introduction to Python 
