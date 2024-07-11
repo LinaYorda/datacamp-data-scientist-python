@@ -1,6 +1,6 @@
 # Data Camp Associate Data Scientist in Python
 
-![DataCap](datacamp.png)
+<img src="datacamp.png" alt="Description" width="94%" />
 
 The journey to becoming a Data Scientist is both exciting and enlightening. Through the Data Camp Associate Data Scientist in Python program, one can gain invaluable skills and knowledge that transform the understanding of data and its applications. This diary captures the progress and showcases the projects that illustrate the learning experience.
 
@@ -16,3 +16,13 @@ This chapter was crucial in enhancing my problem-solving skills and my ability t
 Apply the foundational Python skills you learned in Introduction to Python and Intermediate Python by manipulating and visualizing movie data.
 
 [Link to the project](/investigating-netflix-movies)
+
+## Chapter 3: Data Manipulation with pandas
+
+Learn how to import and clean data, calculate statistics, and create visualizations with pandas.
+
+### Project : Exploring NYC Public School Test Result Scores
+
+Use data manipulation and summary statistics to analyze test scores across New York City's public schools!
+
+[Link to the project](/nyc-public-school)
