@@ -26,3 +26,7 @@ Learn how to import and clean data, calculate statistics, and create visualizati
 Use data manipulation and summary statistics to analyze test scores across New York City's public schools!
 
 [Link to the project](/nyc-public-school)
+
+## Chapter 4 : Joining Data with pandas
+
+Learn to combine data from multiple tables by joining data together using pandas.
